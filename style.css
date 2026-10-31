@@ -6,3 +6,6 @@
 .brand{mix-blend-mode:screen}
 
 .brand,.brand img{mix-blend-mode:normal}
+
+.ic{width:1em;height:1em;display:inline-block;vertical-align:-.125em;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}
+.menu .ic,.close .ic{vertical-align:middle}
