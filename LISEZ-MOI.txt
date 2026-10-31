@@ -1,0 +1,21 @@
+HELLO-CI — CODE SOURCE
+
+Site vitrine en HTML, CSS et JavaScript, sans dépendances.
+
+Fichiers principaux :
+- index.html : contenu et structure
+- style.css : styles de base
+- motion.css : direction graphique et animations
+- app.js : galerie, filtres et contact WhatsApp
+- motion.js : interactions et animations
+- assets/ : logos, photos et vidéo
+
+Pour démarrer : ouvrez index.html dans votre navigateur.
+Pour un aperçu avec serveur local, depuis ce dossier :
+python3 -m http.server 8765
+Puis ouvrez http://localhost:8765
+
+Pour héberger : transférez le contenu du dossier sur un hébergement de sites statiques.
+
+Contact WhatsApp configuré : +225 07 16 600 400
+E-mail configuré : helloservice@gmail.com
